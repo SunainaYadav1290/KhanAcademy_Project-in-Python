@@ -31,7 +31,7 @@ Conclusion
 This project provides insights into student behavior on the Khan Academy platform, offering recommendations for increasing registration and engagement across various districts and months. The combination of Python and Excel proved effective in analyzing and visualizing the data.
 
 How to Use This Repository
-Data Files: [Include information about where to find the dataset if shared]
+
 Scripts:
 SunainaYadavAssignment(1).ipynb: Contains the Python script used for data cleaning and analysis.
 Assign1_SunainaYadav.pptx: The analysis results are summarized in the PowerPoint presentation Assign1_SunainaYadav.pptx.
