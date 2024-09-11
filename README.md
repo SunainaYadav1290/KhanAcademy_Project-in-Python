@@ -1,4 +1,4 @@
-Khan Academy Student Activity Analysis
+Khan Academy Learner Engagement Analysis
 This project involves analyzing data related to student registrations and activity on the Khan Academy platform. The analysis was conducted using Python (Pandas) and Microsoft Excel.
 
 Project Overview
